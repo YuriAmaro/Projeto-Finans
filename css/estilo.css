@@ -1,0 +1,21 @@
+#inicio{
+    background: #ffc107;
+    color: #fff;
+}
+
+.caixa{
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a{
+    margin: 5px 15px;
+    text-decoration: none;
+    color: #504f4e;
+}
+footer p a:hover{
+    text-decoration: none;
+    color: #ffc107;
+    transition: all 0.4s;
+}
+
